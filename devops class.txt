@@ -1,0 +1,23 @@
+DEVOPS :
+______
+---> Devops we have on-premises devployment and cloud on premises deployment
+---> In devops we have 50+ tools are there,but we not use all tools
+     hardware layer --: it engineering
+     application    --: developers
+     developers     --: development
+     operating sys  --: operation
+
+---> In devops is total based on application
+ 
+TYPICAL SOFTWARE RELEASE PROCESS:
+_________________________________
+The developers will use the process to develops the software
+
+IDEA-->REQUIREMENTS--->CODE IT--->TEST IT--->BUILD & PACKAGE--->DEPLOY IT--->SOURCE CODE--->EXECUTABLE
+                                                                                          |
+                                                                                       build & package 
+---> VCS : version control system :- vsc is used for to know the information of code
+PRIVATE 
+PUBLIC --> Is for learning 
+LOCAL --> GIT CLIENT
+REMOTE --> GITHUB, GITLAB                   
